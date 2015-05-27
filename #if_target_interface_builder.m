@@ -1,5 +1,5 @@
 // #if TARGET_INTERFACE_BUILDER
-// #Ifdef for targeting interface builder 
+// #Ifdef for targeting interface builder
 //
 // IDECodeSnippetCompletionPrefix: #if TARGET_INTERFACE_BUILDER
 // IDECodeSnippetCompletionScopes: [All]
